@@ -1,0 +1,114 @@
+*{margin:0;padding:0;}
+.content{
+    margin:0 auto;
+    width:640px;
+    height: 960px;
+    background: pink;
+}
+.top {
+    width: 100%;
+    height: 128px;
+    border-bottom: 2px solid #000;
+}
+.top img{
+    width: 100%;
+    float: left;
+}
+.search {
+    width: 100%;
+    height: 90px;
+    background: #52525a;
+    border-bottom: 2px solid #000;
+    float: left;
+}
+.search  .search_in{
+    width:588px;
+    height:54px;
+    background:#fff;
+    border-radius: 25px;
+    -webkit-border-radius:25px;
+    -moz-border-radius: 25px;
+    -o-border-radius:25px;
+    margin-left:30px;
+    margin-top: 18px;
+}
+.search  .search_in img{
+    float: left;
+    padding-left: 27px;
+    padding-top: 13px;
+}
+.search  .search_in .txt{
+    float: left;
+    width:80%;
+    height: 100%;
+    border: none;
+    font: 24px/100% "微软雅黑";
+    color:#959499;
+}
+.play{
+    width: 100%;
+    height: 250px;
+    border-bottom: 2px solid #000;
+    float: left;
+}
+.pro{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.pro .pro1{
+    width: 100%;
+    height:218px;
+    background: #fff;
+    border-bottom: 2px solid #000;
+    float: left;
+
+}
+.pro .pro1 img{
+    border: 1px solid #ccc;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.pro .pro1 p{
+    float: left;
+    padding-left: 205px;
+    margin-top: -165px;
+    font: 30px/40px "微软雅黑";
+}
+.pro .pro1 span{
+    float: left;
+    padding-left: 205px;
+    margin-top: -80px;
+    font: 30px/42px "微软雅黑";
+    color: #f42a76;
+}
+.pro .pro1 del{
+    float: left;
+    padding-left: 265px;
+    margin-top: -80px;
+    font: 20px/42px "微软雅黑";
+    color: #bdbbbc;
+}
+.pro .pro1 i{
+    float: left;
+    padding-left: 205px;
+    margin-top: -35px;
+    font: 24px/30px "微软雅黑";
+    font-style: normal;
+}
+.pro .pro1 .car {
+    width: 118px;
+    height: 52px;
+    background: #dd215c url("images/car.png") no-repeat center;
+    margin-left: 513px;
+    margin-top: -70px;
+    border-radius: 10px;
+}
+.foot{
+    width: 100%;
+    height:100px;
+    background:#484850;
+    float: left;
+    margin-top: -52px;
+}
+
